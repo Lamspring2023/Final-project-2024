@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+To make a 2d game with left to right control movement using unreal engine 5.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I will be working by myself for this project.
 
 ## Do you have any questions of your own?
 
-TODO
+I have no further questions.
