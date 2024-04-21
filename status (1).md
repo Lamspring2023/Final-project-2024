@@ -10,7 +10,7 @@ Anthony Lam
 
 #### Project title
 
-A 
+Fight or Flight Journey of the century
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have built terrain and set a background and prepare for the character and enemies to be put in.
 
 #### What have you not done for your project yet?
 
-TODO
+Made a end point, map, town area and hud space.
 
 #### What problems, if any, have you encountered?
 
-TODO
+One problem was getting use to the new engine since I used unity before and not unreal engine so everything is different
